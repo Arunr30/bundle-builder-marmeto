@@ -1,4 +1,3 @@
-// DOM Elements
 const addButtons = document.querySelectorAll('.add-btn');
 const selectedList = document.querySelector('.selected-products');
 const progressText = document.querySelector('.progress-text');
